@@ -2,7 +2,7 @@
 
 ## Development server
 
-Run `dotnet run` for a dev server. The development server will run on ` https://localhost:7109 , http://localhost:5238 or http://localhost:5238 ` port. To  automatically reload the application when you change any of the source files, Run `dotnet run watch` command.
+Run `dotnet run` for a dev server. The development server will run on ` https://localhost:7109 , http://localhost:5238 or http://localhost:5238 `. To  automatically reload the application when you change any of the source files, Run `dotnet run watch` command.
 
 ## Migrations
 
